@@ -1,0 +1,2 @@
+include README.md ovhcli_complete.sh
+global-include *.py
